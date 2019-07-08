@@ -1,6 +1,6 @@
 from .Books import Books
 from .StackExchange import StackExchange
-from .Utilites import get_html
+from .Utilities import get_html
 
 
 class Suggestions:
